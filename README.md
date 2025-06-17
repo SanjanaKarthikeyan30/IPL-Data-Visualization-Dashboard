@@ -1,1 +1,6 @@
 # IPL-Data-Visualization-Dashboard
+An interactive Tableau dashboard created to examine and display important performance indicators from the Indian Premier League (IPL) from 2008 to 2024 is shown in this project.  The dashboard uses preprocessed and cleaned data (1034 records, 18 fields) that includes player performance, match specifics, team statistics, throw choices, innings scores, and more.
+
+Win margins, venue data, batting vs. chasing results, match wins, toss results, and run-scoring trends over time are all examined in the graphics.  Matrix correlations, time-series line charts, and clustered and segmented bar charts are examples of advanced chart types.  In order to improve readability and insight discovery, important design ideas were applied, such as pre-attentive qualities (color, length, and location).
+
+Through the use of parameters, filters, and calculated fields, the dashboard integrates interactivity.  To dynamically examine data patterns, users can, for instance, filter by venue, team, year, or establish thresholds.  The project provides data-driven insights into strategy, performance trends, and player highlights to a range of stakeholders, including broadcasters, analysts, team managers, and fans.
